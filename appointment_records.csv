@@ -1,0 +1,17 @@
+appointment_id,patient_id,appointment_date,appointment_time,department,provider,status
+A2001,P001,02/02/2026,09:00,General Practice,Dr. A,Attended
+A2002,P002,02/02/2026,09:30,General Practic,Dr. A,No-show
+A2003,P0003,03/02/2026,10:00,Paediatrics,Dr. b,Cancelled
+A2004,P004,03/02/2026,10:30,General Practice,Dr. A,Attended
+A2005,P005,04/02/2026,11:00,Cardiology,Dr. C,No-show
+A2006,P006,04/02/2026,11:30,General Practice,Dr. A,Attended
+A2007,P007,05/02/2026,12:00,Paedatrics,Dr. B,Attended
+A2008,P008,05/02/2026,12:30,general Practice,Dr. A,No-show
+A2009,P009,06/02/2026,13:00,ccardiology,dr. C,Attended
+A2010,P010,06/02/2026,13:30,,Dr. A,Attended
+A2011,P011,07/02/2026,09:58,General Practice,Dr. A,Attended
+A2012,P012,07/02/2026,09:30,generalpractice,Dr. A,Cancel1led
+A2013,P013,07/02/2026,09:00,General Practice,Dr. A,Attendedd
+A2014,P014,07/02/2026,09:00,General Practice,Dr. A,Attended
+A2015,P015,07/02/2026,09:00,,dr. A,
+A2016,P016,07/02/2026,01:00,General Practice,Dr. A,Attended

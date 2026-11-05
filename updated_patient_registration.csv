@@ -1,0 +1,17 @@
+patient_id,patient_name,date_of_birth,sex,contacts,registration_date
+P001,Amina Yusuf,12/04/1992,Female,aminayusuf01@gmail.com,05/01/2026
+P002,Daniel Okoro,23/09/1985,Male,8030000002,06/01/2026
+P003,Grace Bello,14/12/2025,Female,,08/01/2026
+P004,Samuel Ade,30/11/2001,Male,8032457000,10/01/2026
+P005,Fatima Musa,18/06/1990,Female,7034055005,12/01/2026
+P006,Peter James,02/12/1969,Male,8030000006,15/01/2026
+P007,Chika Nwosu,07/07/1998,Female,officialchika@yahoo.com,17/01/2026
+P008,Mary John,21/03/1988,Female,maryjohn1234@yahoo.com,19/01/2026
+P009,James Tina,21/03/1988,Female,8141900008,19/01/2026
+P010,Esther Lyman,11/06/1979,Female,8036783910,22/01/2026
+P011,Harrison Wells Allen,09/08/1975,Male,mrjohndoe@hotmail.com,22/01/2026
+P012,Omeke Joy,01/08/2000,Female,9030889011,22/01/2026
+P013,Christopher Columbus,09/08/1976,Male,8030000010,23/01/2026
+P014,Ibrahim Sani,09/08/1975,Male,8158899010,23/01/2026
+P015,Hamza Sani,09/09/1975,Male,7030289046,29/01/2026
+P016,Peter Deborah,28/02/2006,Female,7030289046,29/01/2026
